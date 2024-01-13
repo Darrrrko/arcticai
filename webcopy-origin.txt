@@ -1,0 +1,204 @@
+Uri: https://www.arcticai.pro/
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\index.htm
+Content Type: text/html
+
+Uri: https://www.arcticai.pro/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.arcticai.pro/assets/css/fontaswesome.min.css
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\css\fontaswesome.min.css
+Content Type: text/css
+
+Uri: https://www.arcticai.pro/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.arcticai.pro/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.arcticai.pro/assets/images/arctic-logoII.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\arctic-logoII.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/banner_1.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\banner_1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/dextools.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\dextools.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/donut-chart.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\donut-chart.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/dotted-bg-2.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\dotted-bg-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/dotted-bg.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\dotted-bg.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/etherscan-logo.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\etherscan-logo.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/govt.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\govt.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/holder1.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\holder1.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/holder2.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\holder2.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/holder3.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\holder3.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/icon1.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\icon1.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/icon2.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\icon2.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/icon3.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\icon3.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/icon4.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\icon4.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/logo2.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\logo2.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/paal-ai.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\paal-ai.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner1.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner10.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner11.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner11.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner2.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner3.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner4.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner5.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner6.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner7.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner8.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/partner/partner9.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\partner\partner9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/telegram.svg
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.arcticai.pro/assets/images/token-img.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\token-img.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/images/x-logo.png
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\images\x-logo.png
+Content Type: image/png
+
+Uri: https://www.arcticai.pro/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.arcticai.pro/assets/js/jquery-3.6.1.min.js
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\js\jquery-3.6.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.arcticai.pro/assets/js/script.js
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.arcticai.pro/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.arcticai.pro/index.html
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\index.html
+Content Type: text/html
+
+Uri: https://www.arcticai.pro/index.html.html
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\index.html.html
+Content Type: text/html
+
+Uri: https://www.arcticai.pro/token.html
+File Name: C:\Downloaded Web Sites\www.arcticai.pro\token.html
+Content Type: text/html
+
